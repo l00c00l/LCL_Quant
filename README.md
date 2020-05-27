@@ -1,5 +1,7 @@
 # LCL_Quant -- 量化投资学习与实践
 
+[网格实践小记20200527](https://zhuanlan.zhihu.com/p/143825212)
+
 
 [牛市见顶时的击鼓传花-2015年5-6月回顾-20200424](https://zhuanlan.zhihu.com/p/136021583)
 
